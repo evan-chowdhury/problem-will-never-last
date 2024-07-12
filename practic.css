@@ -1,0 +1,34 @@
+.baap{
+    padding: 20px;
+   background-color: yellowgreen;
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    height: 1000px;
+    align-items: center;
+    border: 100px solid yellowgreen;
+    /* background-image: url(images/Default_A_young_adult_male_in_digital_oil_painting_lounging_on_3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center; */
+    /* background-size: contain; */
+    /* background-size: 700px; */
+    /* height: 200px; */
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}
+
+.baccha{
+    border: 2px solid goldenrod;
+    font-size: 30px;
+    padding: 25px;
+    margin: 10px 0;
+    background: green;
+    border: solid black;
+    border-radius: 10px;
+    margin: 5px;
+    b
+
+
+    
+}
